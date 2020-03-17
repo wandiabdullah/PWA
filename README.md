@@ -10,6 +10,10 @@ Tugas ini di berikan oleh dosen saya untuk bahan analisa dan pembelajaran
 * membuat dan mendukung tampilan offline full seperti web apps online
 * Dan membuat agar aplikasinya bisa di install
 
+## Link tutorial 
+* https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0
+
+
 
 ## License
 
